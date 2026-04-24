@@ -14,6 +14,7 @@ Table of contents:
 2. Bash
 3. Postgres
 4. Vue
+5. Putting on fresh socks after a shower
 
 ## Things that are not sweet at all
 
@@ -24,6 +25,7 @@ Table of contents:
 3. WordPress
 4. MSSQL
 5. Snap
+6. Stepping in a drop of water while wearing socks
 
 ## Things I'm not sure on
 
