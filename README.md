@@ -26,6 +26,7 @@ Table of contents:
 4. MSSQL
 5. Snap
 6. Stepping in a drop of water while wearing socks
+7. **Hibernate**
 
 ## Things I'm not sure on
 
